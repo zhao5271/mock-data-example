@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "mock": "nodemon app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mockjs": "^1.1.0",
+    "nodemon": "^2.0.19",
+    "shelljs": "^0.8.5"
+  }
+}
