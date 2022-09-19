@@ -6,6 +6,7 @@
   "devDependencies": {
     "mockjs": "^1.1.0",
     "nodemon": "^2.0.19",
-    "shelljs": "^0.8.5"
+    "shelljs": "^0.8.5",
+    "json-server": "^0.17.0"
   }
 }
