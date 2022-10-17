@@ -1,10 +1,10 @@
 // 引入mock数据
-const students = require('./student')
-const list = require('./list')
-const listResult = require('./list-result')
+const students = require("./student");
+const studentsPlaceholder = require("./student-placeholder.js");
+const dataTempList = require("./data-temp-list.js");
 
 module.exports = {
   students,
-  list,
-  listResult
-}
+  studentsPlaceholder,
+  dataTempList,
+};
